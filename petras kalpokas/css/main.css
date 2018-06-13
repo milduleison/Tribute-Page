@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #EBEFF4
+}
+.profile-name{
+    display: flex;
+    flex-direction: row; 
+}
+
+.img {
+    border-radius: 6px;
+}
+
+h1 {
+    align-self: center;
+    margin: 20px;
+}
+
