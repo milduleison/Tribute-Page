@@ -6,9 +6,18 @@
 .container {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row;
     background-color: #EBEFF4
-   
+    
 }
+
+#info{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+
 #img-div{
     display: flex;
     flex-direction: column; 
@@ -26,6 +35,12 @@
 
 #title {
     align-self: center;
-    margin: 20px;
+    margin: 50px;
+}
+
+#tribute-info {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
 
