@@ -44,3 +44,9 @@
     flex-direction: column;
 }
 
+#artworks{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;  
+}
+
