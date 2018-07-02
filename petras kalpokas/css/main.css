@@ -5,7 +5,7 @@
     background-size: cover;
   }
 
-.container {
+  .container {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
@@ -102,6 +102,7 @@ header ul li a {
 
 #tribute-info h3 {
     margin-left: 25px;
+    font-size: 30px;
 }
 
 #artworks {
@@ -123,5 +124,11 @@ header ul li a {
 
 p {
     text-align: justify;
+    font-size: 17px;
 }
 
+span {
+  font-size: 17px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
